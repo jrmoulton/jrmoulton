@@ -11,7 +11,7 @@ I am currently a computer engineering student at Utah State University. The majo
 - ECE 1410 - Programming in C++ and learning basic principles of OOP
 - ECE 2700 - Digital Circuits - Circuit design and theory with Verilog. 
 
-# 📈GitHub Stats
+# 📈 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 <!---<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmoulton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> --->
