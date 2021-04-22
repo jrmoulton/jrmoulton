@@ -17,16 +17,16 @@ I am currently a computer engineering student at Utah State University. The majo
 <!---<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmoulton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> --->
 
 <a href="https://github.com/jrmoulton/Learn-DL/blob/master/dense.py">
-  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+  <img https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a />
 </a>
 <a href="https://github.com/jrmoulton/parallel_mandelbrot">
-  ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=F95)
+  <img https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=F95 />
 </a>
 <a href="https://github.com/jrmoulton/Sodoku-Solver">
-  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=C00)
+  <img https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=C00 />
 </a>
 <a href="https://jrmoulton.com">
-  ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=22F)
+  <img https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=22F />
 </a>
 
 This README is currently intended to give a high level overview of the
