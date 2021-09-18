@@ -12,6 +12,9 @@ I am currently a computer engineering student at Utah State University. The majo
 - ECE 2700 - Digital Circuits - Circuit design and theory with Verilog. 
 - ECE 2250 - Electrical Circuits - Theory, practice and design of electrical circuits with TSPice
 
+# 🌐 Langages
+My language of choice is Rust because, for me, it is most often the tool suited to any job. But when it makes sense to use another language, I am comfortable in several. Rust and Python are my most productive langauges and I am comforable with all C and C++ syntax but not necessarily production code. I have worked with Swift but not Xcode and I am learning Java. I am also fluent in Spanish
+
 # 📈 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile, Vim script, Shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true" />
 
@@ -30,8 +33,8 @@ I am currently a computer engineering student at Utah State University. The majo
   <img src=https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=22F />
 </a>
 
-This README is currently intended to give a high level overview of the
+My profile is currently intended to give a high level overview of the
 different projects that I have worked on and what I learned from each of those
-projects.
+projects
 
 
