@@ -33,6 +33,8 @@ My language of choice is Rust because, for me, it is most often the tool suited 
   <img src=https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=22F />
 </a>
 
+___  
+
 The six projects pinned below show a variety of the projects that I have worked on.  
 Several other to look at would be:
 
