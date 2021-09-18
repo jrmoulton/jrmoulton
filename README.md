@@ -13,7 +13,7 @@ I am currently a computer engineering student at Utah State University. The majo
 - ECE 2250 - Electrical Circuits - Theory, practice and design of electrical circuits with TSPice
 
 # 📈 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile, Vim script, Shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true" />
 
 <!---<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmoulton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> --->
 
