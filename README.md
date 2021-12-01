@@ -8,9 +8,9 @@ My name is Jared Moulton and I'm an ECE student and computer enthusiast. I get e
 
 I am currently a computer engineering student at Utah State University. The major specific classes that I have taken till this point are:
 - ECE 1400 - Programming in C
-- ECE 1410 - Programming in C++ and learning basic principles of OOP
-- ECE 2700 - Digital Circuits - Circuit design and theory with Verilog (building CPUs and such)
-- ECE 2250 - Electrical Circuits - Theory, practice and design of electrical circuits with LTSPice
+- ECE 1410 - Programming in C++ -- learning basic principles of OOP
+- ECE 2700 - Digital Circuits -- Circuit design and theory with Verilog (building CPUs and such)
+- ECE 2250 - Electrical Circuits -- Theory, practice and design of electrical circuits with LTSPice
 - These are the classes that I have taken but most of my knowledge and skill comes from my own initiative and learning outside of class
 
 # 🌐 Langages
