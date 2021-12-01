@@ -14,9 +14,9 @@ I am currently a computer engineering student at Utah State University. The majo
 - These are the classes that I have taken but most of my knowledge and skill comes from my own initiative and learning outside of class
 
 # 🌐 Langages
-My language of choice is Rust but I am comfortable in several. Rust and Python are my most productive langauges and I am comforable with C *and* C++. I have worked with Swift but not Xcode and I am learning Java. I am also fluent in Spanish
+My language of choice is Rust but I am comfortable with several languages. I am most productive in rust and python and I am comforable with C *and* C++. I have worked with Swift but not Xcode and I am learning Java. I'm also fluent in Spanish
 
-# 📈 GitHub Stats
+# 📈 Some Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile, Vim script, Shell, tcl, html, JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=false" />
 
 <!---<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmoulton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> --->
@@ -35,10 +35,14 @@ My language of choice is Rust but I am comfortable in several. Rust and Python a
 </a>
 
 ___  
+Project Showcase
+----------------
 
-The six projects pinned below show a variety of the projects that I have worked on.  
-Several other to look at would be:
-
-My profile is currently intended to give a high level overview of the
-different projects that I have worked on and what I learned from each of those
-projects
+| Repo         | Description     | Language |
+|--------------|-----------|------------|
+| [Prevmark](https://github.com/jrmoulton/prevmark) | A fast, native, cross platform markdown previewer | Rust        |
+| [Aggietime](https://github.com/jrmoulton/Aggietime) | An https middleman to re-expose the USU aggietime API with the rocket web framework | Rust        |
+| [Sudoku Solver](https://github.com/jrmoulton/Sudoku-Solver) | A sudoku puzzle solver built with a backtracing algorithm | C++        |
+| [Sorting Algorithms](https://github.com/jrmoulton/Sorting-Algos) | Implementation and analysis of several soring algorithms | C++        |
+| [GithubRepoClone](https://github.com/jrmoulton/github-repo-clone) | A script to clone github repos with the power of fuzzy finding | Rust        |
+| [BFS Bunnies](https://github.com/jrmoulton/BFS-Bunnies) | A google foobar challenge that uses BFS to solve a maze | C++        |
