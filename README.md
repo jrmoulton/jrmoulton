@@ -11,13 +11,15 @@ I am currently a computer engineering student at Utah State University. The majo
 - ECE 1410 - Programming in C++ -- learning basic principles of OOP
 - ECE 2700 - Digital Circuits -- Circuit design and theory with Verilog (building CPUs and such)
 - ECE 2250 - Electrical Circuits -- Theory, practice and design of electrical circuits with LTSPice
+- ECE 3700 - Digital System Design -- Verilog FPGA system design
+- CS 2420 - Algorithms and Data Structures -- Algorithms and Data Structures in Java
 - These are the classes that I have taken but most of my knowledge and skill comes from my own initiative and learning outside of class
 
 # 🌐 Langages
 My language of choice is Rust but I am comfortable with several languages. I am most productive in rust and python and I am comforable with C *and* C++. I have worked with Swift but not Xcode and I am learning Java. I'm also fluent in Spanish
 
 # 📈 Some Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile, Vim script, Shell, tcl, html, JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=false" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile, Vim script, Shell, tcl, html, JavaScrip&exclude_repo=tree-sitter-slintt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=false" />
 
 <!---<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmoulton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> --->
 
@@ -40,9 +42,10 @@ Project Showcase
 
 | Repo         | Description     | Language |
 |--------------|-----------|------------|
-| [Prevmark](https://github.com/jrmoulton/prevmark) | A fast, native, cross platform markdown previewer | Rust        |
+| [Tree Sitter Slint](https://github.com/jrmoulton/tree-sitter-slint) | A Tree Sitter Parser for syntas highlighting and indentation for Slint | Javascript        |
 | [Aggietime](https://github.com/jrmoulton/Aggietime) | An https middleman to re-expose the USU aggietime API with the rocket web framework | Rust        |
 | [Sudoku Solver](https://github.com/jrmoulton/Sudoku-Solver) | A sudoku puzzle solver built with a backtracing algorithm | C++        |
 | [Sorting Algorithms](https://github.com/jrmoulton/Sorting-Algos) | Implementation and analysis of several soring algorithms | C++        |
-| [GithubRepoClone](https://github.com/jrmoulton/github-repo-clone) | A script to clone github repos with the power of fuzzy finding | Rust        |
+| [Github Repo Clone](https://github.com/jrmoulton/github-repo-clone) | A Rust cli program to clone github repos with the power of fuzzy finding | Rust        |
 | [BFS Bunnies](https://github.com/jrmoulton/BFS-Bunnies) | A google foobar challenge that uses BFS to solve a maze | C++        |
+| [Prevmark](https://github.com/jrmoulton/prevmark) | A fast, native, cross platform, very unfinished markdown previewer | Rust        |
