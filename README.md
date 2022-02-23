@@ -19,7 +19,7 @@ I am currently a computer engineering student at Utah State University. The majo
 My language of choice is Rust but I am comfortable with several languages. I am most productive in rust and python and I am comforable with C *and* C++. I have worked with Swift but not Xcode and I am learning Java. I'm also fluent in Spanish
 
 # 📈 Some Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile, Vim script, Shell, tcl, html, JavaScrip&exclude_repo=tree-sitter-slintt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=false" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile, Vim script, Shell, tcl, html, JavaScript&exclude_repo=tree-sitter-slint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=false" />
 
 <!---<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmoulton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> --->
 
