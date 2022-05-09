@@ -44,11 +44,10 @@ Project Showcase
 | Repo         | Description     | Language |
 |--------------|-----------|------------|
 | [Tree Sitter Slint](https://github.com/jrmoulton/tree-sitter-slint) | A Tree Sitter Parser for syntax highlighting for Slint | Javascript        |
-| [Aggietime](https://github.com/jrmoulton/Aggietime) | A middleman REST API to re-expose the USU aggietime API with the rocket web framework | Rust        |
 | [Sudoku Solver](https://github.com/jrmoulton/Sodoku-Solver) | A sudoku puzzle solver built with a backtracing algorithm | C++        |
-| [Tmux Sessionizer](https://github.com/jrmoulton/tmux-sessionizer) | A cli program to open new projects as new tmux sessions with each worktree in a new window | Rust        |
 | [Slint](https://github.com/slint-ui/slint) | A GUI framework implemented in Rust that I enjoy contributing to | Rust |
+| [Aggietime](https://github.com/jrmoulton/Aggietime) | A REST API middleman to simplify the USU aggietime API | Rust        |
 | [Sorting Algorithms](https://github.com/jrmoulton/Sorting-Algos) | Implementation and analysis of several soring algorithms | C++        |
 | [Github Repo Clone](https://github.com/jrmoulton/github-repo-clone) | A Rust cli program to clone github repos with the power of fuzzy finding | Rust        |
 | [BFS Bunnies](https://github.com/jrmoulton/BFS-Bunnies) | A google foobar challenge that uses BFS to solve a maze | C++        |
-| [Prevmark](https://github.com/jrmoulton/prevmark) | A fast, native, cross platform, very unfinished markdown previewer | Rust        |
+| [Tmux Sessionizer](https://github.com/jrmoulton/tmux-sessionizer) | A cli program to manage projects as tmux sessions with each worktree in a new window | Rust        |
