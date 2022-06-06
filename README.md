@@ -20,9 +20,9 @@ Most of my time learing is spent on side projects outside of class
 My language of choice is **Rust**. I am most effective in **C++** and **Rust** and I am comfortable with **C** and **Python**. I would prefer to not use my **Java** skills and I'm also fluent in Spanish
 
 # 📈 Some Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile, Vim script, Shell, tcl, html, JavaScript&exclude_repo=tree-sitter-slint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=false" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile, Vim script, Shell, tcl, html, JavaScript&exclude_repo=tree-sitter-slint,psoc4-pac&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=false" />
 
-<!---<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmoulton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" /> --->
+<!---<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrmoulton&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jared's GitHub Stats" /> --->
 
 <a href="https://github.com/jrmoulton/Learn-DL/blob/master/dense.py">
   <img src=https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a />
