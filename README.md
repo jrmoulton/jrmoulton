@@ -43,6 +43,7 @@ Project Showcase
 
 | Repo         | Description     | Language |
 |--------------|-----------|------------|
+| [psoc4-hal](https://github.com/jrmoulton/psoc4-hal) | A Hardware Abstraction Layer for the psoc4 series of microcontrollers | Rust |
 | [Tree Sitter Slint](https://github.com/jrmoulton/tree-sitter-slint) | A Tree Sitter Parser for syntax highlighting for Slint | Javascript        |
 | [Sudoku Solver](https://github.com/jrmoulton/Sodoku-Solver) | A sudoku puzzle solver built with a backtracing algorithm | C++        |
 | [Slint](https://github.com/slint-ui/slint) | A GUI framework implemented in Rust that I enjoy contributing to | Rust |
