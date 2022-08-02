@@ -1,10 +1,8 @@
 [username]: jrmoulton
 
-# Hey! 👋 <!-- <img src="https://raw.githubusercontent.com/jrmoulton/jrmoulton/master/images/wave.gif" width="30px"> -->
+Hey I'm Jared! I'm a computer engineering student and I get excited about building things that help people
 
-My name is Jared Moulton and I'm an ECE student and computer enthusiast. I get excited about building things that help people
-
-# 📚 School and Education
+## 📚 School and Education
 
 I am a computer engineering student at Utah State University. The major classes I have taken are:
 - ECE 1400 - Programming in C
@@ -16,25 +14,8 @@ I am a computer engineering student at Utah State University. The major classes 
 
 Most of my time learing is spent on side projects outside of class
 
-# 🌐 Langages
+## 🌐 Langages
 My language of choice is **Rust**. I also work in **C++** and I am comfortable with **C** and **Python**. I would prefer to not use my **Java** skills and I'm also fluent in Spanish
-
-# 📈 Some Stats
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmoulton&hide=Jupyter Notebook, Makefile, Vim script, Shell, tcl, html, JavaScript&exclude_repo=tree-sitter-slint,psoc4-pac&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=false" />
-</div>
-<a href="https://github.com/jrmoulton/tmux-sessionizer">
-  <img src=https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=F95 />
-</a>
-<a href="https://github.com/jrmoulton/Sodoku-Solver">
-  <img src=https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=C00 />
-</a>
-<a href="https://github.com/jrmoulton/Learn-DL/blob/master/dense.py">
-  <img src=https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a />
-</a>
-<a href="https://jrmoulton.com">
-  <img src=https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=22F />
-</a>
 
 ___  
 Project Showcase
