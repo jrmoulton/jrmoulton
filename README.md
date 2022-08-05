@@ -17,12 +17,17 @@ Most of my time learing is spent on side projects outside of class
 ## 🌐 Langages
 My language of choice is **Rust**. I also work in **C++** and I am comfortable with **C** and **Python**. I would prefer to not use my **Java** skills and I'm also fluent in Spanish
 
+## 📌 Best Work
+
+My latest and best work includes the [DACx0501](https://github.com/jrmoulton/dacx0501) library, [Tmux Sessionizer](https://github.com/jrmoulton/tmux-sessionizer) and my work on [esp-hal](https://github.com/esp-rs/esp-hal).
+
 ___  
 Project Showcase
 ----------------
 
 | Repo                                                                | Description                                                                          | Language   |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------- |
+| [DACx0501](https://github.com/jrmoulton/dacx0501)                   | A well polished, fully documented embedded hal driver for the TI x0501 DACs          | Rust       |
 | [esp-hal](https://github.com/esp-rs/esp-hal)                        | A pure rust hardware abstraction layer for esp32 chips that I contribute to          | Rust       |
 | [Tree Sitter Slint](https://github.com/jrmoulton/tree-sitter-slint) | A Tree Sitter Parser for syntax highlighting for Slint                               | Javascript |
 | [Sudoku Solver](https://github.com/jrmoulton/Sodoku-Solver)         | A sudoku puzzle solver built with a backtracing algorithm                            | C++        |
