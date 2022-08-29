@@ -12,7 +12,7 @@ I am a computer engineering student at Utah State University. The major classes 
 - ECE 3700 - Digital System Design
 - CS 2420 - Algorithms and Data Structures
 
-Most of my time learing is spent on side projects outside of class
+Most of my time learning is spent on side projects outside of class
 
 ## 🌐 Langages
 My language of choice is **Rust**. I also work in **C++** and I am comfortable with **C** and **Python**. I would prefer to not use my **Java** skills and I'm also fluent in Spanish
