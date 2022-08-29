@@ -35,6 +35,6 @@ Project Showcase
 | [psoc4-hal](https://github.com/jrmoulton/psoc4-hal)                 | A Hardware Abstraction Layer for the psoc4 series of microcontrollers                | Rust       |
 | [Aggietime](https://github.com/jrmoulton/Aggietime)                 | A REST API middleman to simplify the USU aggietime API                               | Rust       |
 | [Sorting Algorithms](https://github.com/jrmoulton/Sorting-Algos)    | Implementation and analysis of several soring algorithms                             | C++        |
-| [Github Repo Clone](https://github.com/jrmoulton/github-repo-clone) | A Rust cli program to clone github repos with the power of fuzzy finding             | Rust       |
-| [BFS Bunnies](https://github.com/jrmoulton/BFS-Bunnies)             | A google foobar challenge that uses BFS to solve a maze                              | C++        |
 | [Tmux Sessionizer](https://github.com/jrmoulton/tmux-sessionizer)   | A cli program to manage projects as tmux sessions with each worktree in a new window | Rust       |
+| [BFS Bunnies](https://github.com/jrmoulton/BFS-Bunnies)             | A google foobar challenge that uses BFS to solve a maze                              | C++        |
+| [Github Repo Clone](https://github.com/jrmoulton/github-repo-clone) | A Rust cli program to clone github repos with the power of fuzzy finding             | Rust       |
