@@ -9,6 +9,7 @@ I am a computer engineering student at Utah State University. The major classes 
 - ECE 1410 - Programming in C++
 - ECE 2700 - Digital Circuits
 - ECE 2250 - Electrical Circuits
+- ECE 2290 - Electrical Circuits II
 - ECE 3700 - Digital System Design
 - CS 2420 - Algorithms and Data Structures
 
@@ -19,7 +20,7 @@ My language of choice is **Rust**. I also work in **C++** and I am comfortable w
 
 ## 📌 Best Work
 
-My latest and best work includes the [DACx0501](https://github.com/jrmoulton/dacx0501) library, [Tmux Sessionizer](https://github.com/jrmoulton/tmux-sessionizer) and my work on [esp-hal](https://github.com/esp-rs/esp-hal).
+My latest and best work includes a custom [interpreter](https://github.com/jrmoulton/interpreter-rs) from scratch, the [DACx0501](https://github.com/jrmoulton/dacx0501) library, [Tmux Sessionizer](https://github.com/jrmoulton/tmux-sessionizer) and my work on [esp-hal](https://github.com/esp-rs/esp-hal).
 
 ___  
 Project Showcase
@@ -27,6 +28,7 @@ Project Showcase
 
 | Repo                                                                | Description                                                                          | Language   |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------- |
+| [interpreter-rs](https://github.com/jrmoulton/interpreter-rs)       | An interpreter for an expression heavy c-like language, with a handwritten parser    | Rust       |
 | [DACx0501](https://github.com/jrmoulton/dacx0501)                   | A well polished, fully documented embedded hal driver for the TI x0501 DACs          | Rust       |
 | [esp-hal](https://github.com/esp-rs/esp-hal)                        | A pure rust hardware abstraction layer for esp32 chips that I contribute to          | Rust       |
 | [Tree Sitter Slint](https://github.com/jrmoulton/tree-sitter-slint) | A Tree Sitter Parser for syntax highlighting for Slint                               | Javascript |
