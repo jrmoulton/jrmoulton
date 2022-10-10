@@ -4,15 +4,7 @@ Hey I'm Jared! I'm a computer engineering student and I get excited about buildi
 
 ## 📚 School and Education
 
-I am a computer engineering student at Utah State University. The major classes I have taken are:
-- ECE 1400 - Programming in C
-- ECE 1410 - Programming in C++
-- ECE 2700 - Digital Circuits
-- ECE 2250 - Electrical Circuits
-- ECE 2290 - Electrical Circuits II
-- ECE 3700 - Digital System Design
-- CS 2420 - Algorithms and Data Structures
-
+I am a computer engineering student at Utah State University.
 Most of my time learning is spent on side projects outside of class
 
 ## 🌐 Langages
