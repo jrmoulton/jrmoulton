@@ -1,18 +1,17 @@
 [username]: jrmoulton
 
-Hey I'm Jared! I'm a computer engineering student and I get excited about building things that help people
+Hey I'm Jared! I'm a computer engineering student. I like building stuff. 🦀.
 
 ## 📚 School and Education
 
 I am a computer engineering student at Utah State University.
-Most of my time learning is spent on side projects outside of class
 
 ## 🌐 Langages
-My language of choice is **Rust**. I also work in **C++** and I am comfortable with **C** and **Python**. I would prefer to not use my **Java** skills and am also fluent in Spanish
+My language of choice is **Rust**. All professional work that I've done has been in **C**. I also work in **C++** and I am very comfortable with **Python**. I would prefer to not use my **Java** skills and am also fluent in Spanish
 
 ## 📌 Best Work
 
-My latest and best work includes a custom [interpreter](https://github.com/jrmoulton/interpreter-rs) from scratch, the [DACx0501](https://github.com/jrmoulton/dacx0501) library, [Tmux Sessionizer](https://github.com/jrmoulton/tmux-sessionizer) and my work on [esp-hal](https://github.com/esp-rs/esp-hal).
+My latest and best work includes a custom [compiler](https://github.com/jrmoulton/interpreter-rs) from scratch, the [DACx0501](https://github.com/jrmoulton/dacx0501) library, [Tmux Sessionizer](https://github.com/jrmoulton/tmux-sessionizer) and my work on [Floem](https://github.com/lapce/floem).
 
 ___  
 Project Showcase
@@ -20,7 +19,7 @@ Project Showcase
 
 | Repo                                                                | Description                                                                          | Language   |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------- |
-| [interpreter-rs](https://github.com/jrmoulton/interpreter-rs)       | An interpreter for an expression heavy c-like language, with a handwritten parser    | Rust       |
+| [Compiler](https://github.com/jrmoulton/interpreter-rs)             | An compiler and interpreter for a custom language, with a handwritten parser         | Rust       |
 | [DACx0501](https://github.com/jrmoulton/dacx0501)                   | A well polished, fully documented embedded hal driver for the TI x0501 DACs          | Rust       |
 | [esp-hal](https://github.com/esp-rs/esp-hal)                        | A pure rust hardware abstraction layer for esp32 chips that I contribute to          | Rust       |
 | [Tree Sitter Slint](https://github.com/jrmoulton/tree-sitter-slint) | A Tree Sitter Parser for syntax highlighting for Slint                               | Javascript |
