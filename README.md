@@ -1,10 +1,10 @@
 [username]: jrmoulton
 
-Hey I'm Jared! I'm a computer engineering student. I like building stuff. 🦀.
+Hey I'm Jared! I'm a computer engineering student. I like building stuff. I also like Rust.
 
 ## 📚 School and Education
 
-I am a computer engineering student at Utah State University.
+I am a student at Utah State University.
 
 ## 🌐 Langages
 My language of choice is **Rust**. All professional work that I've done has been in **C**. I also work in **C++** and I am very comfortable with **Python**. I would prefer to not use my **Java** skills and am also fluent in Spanish
