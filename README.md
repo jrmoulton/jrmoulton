@@ -1,16 +1,5 @@
 [username]: jrmoulton
 
-Hey I'm Jared! I'm a computer engineering student at Utah State University. I like building stuff. I also like Rust.
-
-
-## 🌐 Langages
-My language of choice is **Rust**. All professional work that I've done has been in **C**. I also work in **C++** and I am very comfortable with **Python**. I would prefer to not use my **Java** skills and am also fluent in Spanish
-
-## 📌 Best Work
-
-My latest and best work includes a custom [compiler](https://github.com/jrmoulton/interpreter-rs) from scratch, the [DACx0501](https://github.com/jrmoulton/dacx0501) library, [Tmux Sessionizer](https://github.com/jrmoulton/tmux-sessionizer) and my work on [Floem](https://github.com/lapce/floem).
-
-___  
 Project Showcase
 ----------------
 
